@@ -142,5 +142,5 @@ def part2():
 
     return min(mapped_seeds)
 
-print(part1())
-# print(part2())
+# print(part1())
+print(part2())
